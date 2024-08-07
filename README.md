@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CApope77
-- 👀 I’m interested in sharpening my coding skills in javascript
+- 👀 I’m interested in sharing and adding to my new founs html/css/javascript skills
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on mostly projects for fun
+- 💞️ I’m looking to collaborate on mostly projects for work and fun
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I collect sneakers and have close to 100
 
