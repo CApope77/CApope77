@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on mostly projects for work and fun
 - 😄 Pronouns: she/her
+- ❤ Wife&Mommy
 - ⚡ Fun fact: I collect sneakers and have close to 100
 
 <!---
